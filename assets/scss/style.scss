@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+}
+
+#clicker {
+    width: 35%;
+    height: 100vh;
+    background-color: rgba(24, 158, 0, 0.637);
+}
+
+#BTC {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 200px;
+    color: goldenrod;
+    border: rgb(151, 112, 12) solid;
+    background-color: currentColor;
+    border-radius: 50%;
+}
