@@ -21,4 +21,13 @@ body {
   background-color: currentColor;
   border-radius: 50%;
 }
+
+#score {
+  width: 65%;
+  height: 100vh;
+  background-color: blue;
+  position: absolute;
+  top: 0;
+  left: 35%;
+}
 /*# sourceMappingURL=style.css.map */
