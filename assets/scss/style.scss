@@ -18,8 +18,9 @@ body {
     width: 200px;
     height: 200px;
     color: goldenrod;
-    border: rgb(151, 112, 12) solid;
-    background-color: currentColor;
+    background-image: url("/assets/images/bitcoin-btc.png");
+    background-size: cover;
+    background-color: white;
     border-radius: 50%;
 }
 #score{
